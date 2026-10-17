@@ -1,0 +1,204 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    background-color: rgb(236, 236, 236);
+}
+.header{
+    background-color: rgb(29, 74, 122);
+    color:white;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.header a{
+   border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.15);
+    background-color:rgba(255, 255, 255, 0.1);
+    color:white;
+    padding: 7px 12px;
+    margin-right: 5px;
+}
+.header h6{
+     color:rgb(157, 184, 213);
+    }
+
+
+.header button{
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.15);
+    background-color:rgba(255, 255, 255, 0.1);
+    color:white;
+    padding: 7px 12px;
+    margin-right: 5px;
+}
+
+.title-box{
+    color:  rgb(29, 74, 122);
+    padding: 20px 10px 0px 10px;
+    
+}
+hr{
+    width: 99%;
+}
+
+.about-me{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.margin{
+    margin: auto;
+    margin-top: 20px;
+}
+
+.about-me span{
+    color: blue;
+}
+
+.about-me img{
+    width:100px;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+
+.w-80{
+    width: 80%;
+
+}
+
+.fl-pa{
+     float:left;
+    padding:10px 1px 10px 10px;
+}
+.clear-fix{
+    clear:both;
+}
+
+.gray{
+    color: gray;
+}
+
+.about-me .item-2 a{
+    border-radius: 5px;
+    border: none;
+    padding:10px 10px;
+    background-color: rgb(29, 74, 122);
+    color: white;
+}
+.my-skills{
+ width: 80%;
+ background-color:white;
+ border-radius: 10px;
+ padding: 5px 10px 20px 20px;
+}
+
+.my-skills .container-1 .data .inner h4{
+color:rgb(66, 119, 172) ;
+}
+
+.w-25{
+    width: 25%;
+}
+
+
+
+.my-skills container-1{
+    width: 100%;
+    margin:auto;
+}
+.container-1{
+    width: 100%;
+    margin: auto;
+}
+
+.data{
+    background-color:white;
+    width: 25%;
+    height: 150px;
+    float: left;
+    padding:10px 15px;
+    border-radius: 5px;
+    margin:auto;
+}
+.inner{
+    background-color: rgba(205, 232, 255, 0.1);
+    border: 1px solid rgba(129, 179, 255,  0.15);
+    border-radius: 5px;
+    padding: 10px;
+    height: 100%;
+}
+
+.Experience{
+    border-radius: 10px;
+    background-color:white;
+    padding:5px 10px 10px 20px ;
+
+}
+
+.container-2{
+    background-color: rgba(177, 212, 240, 0.1);
+    border-radius: 10px;
+    border-left: 4px solid rgb(29, 74, 122);
+
+}
+.container-2 .icon-1 img{
+    width: 60px;
+    border-radius: 5px;
+    border: 1px solid rgba(134, 192, 239, 0.7);
+
+
+}
+
+.container-2 .senior span{
+    color:rgb(34, 90, 146) ;
+}
+.container-2 .senior h4{
+    color: black;
+}
+
+.container-2 p{
+     padding:  20px;
+}
+
+.icon-1{
+    float: left;
+    border-radius: 5px;
+     padding: 20px;
+}
+.senior{
+    float: left;
+    margin-left: 5px;
+}
+
+
+.contact-me{
+    background-color: rgb(29, 74, 122);
+    color: white;
+    border-radius: 10px;
+    padding:5px 10px 10px 20px ;
+
+}
+.contact-me button{
+    border-radius: 5px;
+    border:1px solid rgba(255, 255, 255, 0.15);
+    background-color:rgba(255, 255, 255, 0.1);
+    padding:10px 10px;
+    margin-right: 5px;
+    color:white;
+}
+
+.footer{
+    background-color: rgb(9, 9, 75);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.footer span{
+color: rgb(87, 158, 229);
+}
